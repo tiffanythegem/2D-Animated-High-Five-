@@ -10,7 +10,7 @@ Functionalities Implemented
 This project contains various class files that all contribute to the animation in some way, among other helper functions in the main file. These include:
 
 1. Left Hand (LeftHand.pde)
-2. 
+   
  - A front-right facing hand that moves from the left of the screen to the center, accompanied by a trailing wind effect.
 
  - Takes in a parameter float named "move" that dictates not only the movement speed of the left hand, but controls the effects tied to that speed. Along with the display function, a helper "drawHand" function will actually draw and update the hand, while the "display" function calls the helper function and resets the hand at a designated point
