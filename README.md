@@ -29,5 +29,5 @@ This project contains various class files that all contribute to the animation i
 
  - The "BigBang" constructer takes two float parameters, "x" and "y", that control the position of the explosion. Contains the "update" function that updates the wanted movement of the explosion, along with the "drawBigBang" function to actually draw the explosion, and the "display" function to display it. 
 
- - The farther away, red explosion effect inherits the position of the orange effect, and then is rotated to be offset with the orangge effect. 
+ - The farther away, red explosion effect inherits the position of the orange effect, and then is rotated to be offset with the orange effect. 
 
